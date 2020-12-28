@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Badge1.iml" filepath="$PROJECT_DIR$/Exercises/Badge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Factorizer.iml" filepath="$PROJECT_DIR$/Exercises/Factorizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBasicExercises.iml" filepath="$PROJECT_DIR$/.idea/JavaBasicExercises.iml" />
+    </modules>
+  </component>
+</project>
