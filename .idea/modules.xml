@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exercises/Badge1.iml" filepath="$PROJECT_DIR$/Exercises/Badge1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Factorizer.iml" filepath="$PROJECT_DIR$/Exercises/Factorizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBasicExercises.iml" filepath="$PROJECT_DIR$/.idea/JavaBasicExercises.iml" />
     </modules>
   </component>
